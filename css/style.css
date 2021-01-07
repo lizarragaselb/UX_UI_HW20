@@ -1,0 +1,118 @@
+.top-bar a {
+    color:white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h1 {
+    color:#015a6b;
+    font-family: Cooper Lt BT,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h3 {
+    color: #2b2b2b;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h5 {
+    color: #2b2b2b;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.display-4 {
+    font-size:38px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+#subtittle {
+    color: #2b2b2b;
+    font-size: 16pt;
+    font-weight: 500;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#copy {
+    color:#A9AFAB;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.lead {
+    color:#707070;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+#btn1 {
+    color: #c48919;
+}
+
+#btn1:hover {
+    background-color:  #c48919;
+    color:white;
+}
+
+#card1 {
+    border: white;
+}
+
+.text-muted {
+    font-size: 14pt;
+    color:#707070;
+    font-weight: 300;
+    margin: auto;
+    height: 30px;
+    font-family: Cooper Lt BT,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card-link {
+    color:#015a6b;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+.card-link:hover {
+    columns: #2b2b2b;;
+    
+
+}
+
+.footer {
+    height: 200px;
+ }
+
+#footertext {
+    color:white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+
+#footertext1 {
+    color:#E1B047;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: Sofia Pro,-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+
+}
+
+
